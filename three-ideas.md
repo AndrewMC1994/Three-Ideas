@@ -44,7 +44,7 @@ I think that this is a really good idea but also very difficult but the challeng
 
 ### How might it be built?
 
-The project will definitely be a mobile application. I think I would build it using using Unity with some HTML, CSS and JavaScript mixed in with the models being created in Illustrator. These could then be imported into Unity which would be the biggest challenge as ive never used it before but I really want to challenge myself, so I intend to follow the various tutorials that are online. Even if I wasn't unable to create the application I would create a video in After Effects showcasing how it would work.
+The project will definitely be a mobile application. I think I would build it using using Unity with some HTML, CSS and JavaScript mixed in with the models being created in Illustrator. These could then be imported into Unity which would be the biggest challenge as ive never used it before but I really want to challenge myself, so I intend to follow the various tutorials that are online, like this [one](https://hackernoon.com/how-to-make-a-vr-app-with-zero-experience-927438e2dede). Even if I wasn't unable to create the application I would create a video in After Effects showcasing how it would work.
 
 ### Who’s it for?
 
@@ -72,13 +72,13 @@ Interaction Design Educational 3D Printed Figures
 
 I've always wanted to work with 3D printing and my final year project seems like a great opportunity.
 
-I think an interesting approach would be creating a 3D figurine for each subject that relates to Interaction Design for example web design, graphic design, photography, animation etc.. these figures would also have there own custom box designs similar to funko pop figurines. The figures are intended to introduce children and young teenagers into the world of interaction design, essentially trying to engage there interest in these subjects at a young age.
+I think an interesting approach would be creating a 3D figurine for each subject that relates to Interaction Design for example web design, graphic design, photography, animation etc.. these figures would also have there own custom box designs similar to [funko pop figurines.](https://popvinylfaq.com/wp-content/uploads/2017/06/Custom-pop-box.jpg) The figures are intended to introduce children and young teenagers into the world of interaction design, essentially trying to engage there interest in these subjects at a young age.
 
 I think it would also be beneficial to have a companion app or website though this would entirely depend on how long it would take to get the models designed and printed, this requires further research.
 
-I intend to keep the designs fairly simple in shape as this means they would be cheaper and easier to produce, I think I can have some articulation by designing certain parts sepertely and printing them individually. I've look at some models on Behance that where created using 3D printing, I espeicially like this one by [Alejandro Giraldo.](https://www.behance.net/gallery/26953933/The-Captain-3D-printed-Toy)
+I intend to keep the designs fairly simple in shape as this means they would be cheaper and easier to produce, I think I can have some articulation by designing certain parts sepertely and printing them individually. I've look at some models on Behance that where created using 3D printing, I especially like this one by [Alejandro Giraldo.](https://www.behance.net/gallery/26953933/The-Captain-3D-printed-Toy)
 
-This project will give me an opportunity to learn about designing a 3D model with printing in mind, I will also get to imrpove my knowledge in programs such as Illustrator and possibly Blender/Maya.
+This project will give me an opportunity to learn about designing a 3D model for print, I will also get to improve my knowledge in programs such as Illustrator and possibly Blender/Maya.
 
 ### Pros
 
@@ -91,18 +91,18 @@ This project will give me an opportunity to learn about designing a 3D model wit
 
 ### Cons
 
-+ I Don't know how much it would cost, this requires further research.
+- I Don't know how much it would cost, this requires further research, possibly kickstarter?
 
-+ I may not have enough experience to create the 3D Models, this part may need outsourced?
+- I may not have enough experience to create the 3D Models, this part may need outsourced?
 
-+ This might be a somewhat niche product, are kids interested in these subjects at such a young age?
+- This might be a somewhat niche product, are kids interested in these subjects at such a young age?
 
 
 ### How might it be built?
 
-I would initially create some sketches for each character and would bring these in Illustrator to create detailed 2D Illustrations, I would then either outsouce or create the 3D models myself using Blender. 
+I would initially create some sketches for each character and would bring these in Illustrator to create detailed 2D Illustrations, I would then either outsouce or create the 3D models myself using Blender. I intend to create the box
 
-The difficult part would be getting them printed physically, I do know someone who makes figurines so that could be a possible solution and also after doing some research there seems to be quite a few locations in Belfast to get models printed.
+The difficult part would be getting them printed physically, I do know someone who makes figurines so that could be a possible solution and also after doing some research there seems to be quite a few locations in Belfast to get models [printed.](https://www.fablabbelfast.org/)
 
 ### Who’s it for?
 
@@ -112,11 +112,11 @@ The difficult part would be getting them printed physically, I do know someone w
 
 ### What’s the business model?
 
-I would have to do some user research and find out if there is enough interest but if there was this would be a good opportunity to launch a Kickstarter project for possibly funding.
+I would have to do some user research and find out if there is enough interest but if there was this would be a good opportunity to launch a Kickstarter project for possible funding.
 
 ----
 
-A Beginner’s Guide to Pinhole Photography
+Animation?
 ----------------------------------------
 
 We live in an age that is obsessively focused on the over-engineered fictions of Instagram, shared without thought it seems on the latest social network that has fleetingly caught the imagination.
