@@ -2,7 +2,7 @@
 
 
 01. Isometric VR Map of Northern Ireland App
-02. Action Figure Set aimed at Children
+02. Interaction Design Educational 3D Printed Figures
 03. Cards ????
 
 
@@ -14,7 +14,7 @@ Isometric VR Map of Northern Ireland App
 
 ### Overview
 
-I've always thought that there could be a better way to design an experience that would utilise VR to allow users to immerse themselves in a countries landmarks using VR.
+I've always thought that there could be a better way to design an experience that would utilise VR to allow users to immerse themselves in a countries landmarks.
 
 This innovative application will allow users to get an in-depth 360° look at Northern Ireland's popular landmarks such as the Giants Causeway or the Titanic Quarter with interactive isometric designs of these famous landmarks, not only will you be able to see the landmarks in detail but the app would all provide information on the landmark's such as it's history, location and links to any respective websites and information on fees such as tickets and entry fees.
 
@@ -24,8 +24,7 @@ As this is a big challenge for me I think I would be focusing on mobile only.
 
 I would like to have atleast one physical 3D Model of one of the landmarks along with pinted items such as stickers, shirts, badges with the project logo, social media would also me a huge part of it, I think it would be good to try and get in contact with Tourist NI or similar organisations for advice.
 
-I truly think that this is a really good idea but also very difficult however the challenge of building it would teach me many new skills.
-
+I think that this is a really good idea but also very difficult but the challenge of building it would teach me many new skills and techniques that I think its worth it.
 
 ### Pros
 
@@ -45,7 +44,7 @@ I truly think that this is a really good idea but also very difficult however th
 
 ### How might it be built?
 
-The project will definitely be a mobile application. I think I would build it using using Unity with some HTML, CSS and JavaScript mixed in with the models beign created in Illustrator. These could then be imported into Unity which would be the biggest challenge as ive never used it before but I really want to challenge myself, so I intend to follow the various tutorials that are online. Even if I wasn't unable to create the application I would create a video in After Effects showcasing how it would work.
+The project will definitely be a mobile application. I think I would build it using using Unity with some HTML, CSS and JavaScript mixed in with the models being created in Illustrator. These could then be imported into Unity which would be the biggest challenge as ive never used it before but I really want to challenge myself, so I intend to follow the various tutorials that are online. Even if I wasn't unable to create the application I would create a video in After Effects showcasing how it would work.
 
 ### Who’s it for?
 
@@ -61,77 +60,61 @@ This information is based on my own thoughts I feel like I would need to conduct
 
 ### What’s the business model?
 
-I think the service would be free as it's educational and especially for tourists I think it would be more advantages for it to be accessible so that newcomers are put off. 
+I think the service would be free as it's educational and especially for tourists I think it would be beneficial for it to be accessible so that newcomers arn't put off by having the pay a fee.
 
 ----
 
 
-A History of Jazz in Carrickfergus
+Interaction Design Educational 3D Printed Figures
 ----------------------------------
 
 ### Overview
 
-I’ve always loved jazz. The music of Miles Davis – in particular his electric period – has always captivated me.
+I've always wanted to work with 3D printing and my final year project seems like a great opportunity.
 
-Most gravitate towards the mainstream melodies of ‘Kind of Blue’, but give me the electric extremities of ‘Bitches Brew’ any day! (Teo Macero is shockingly overlooked, but – trust me – he was, truly, the original dark magus.)
+I think an interesting approach would be creating a 3D figurine for each subject that relates to Interaction Design for example web design, graphic design, photography, animation etc.. these figures would also have there own custom box designs similar to funko pop figurines. The figures are intended to introduce children and young teenagers into the world of interaction design, essentially trying to engage there interest in these subjects at a young age.
 
-The Carrickfergus jazz scene has been sadly neglected in recent years, however, it is a little known fact that Davis performed there in 1974 (who knew?). I believe this little known fact needs to be celebrated.
+I think it would also be beneficial to have a companion app or website though this would entirely depend on how long it would take to get the models designed and printed, this requires further research.
 
-Very few people know it, but a flurry of jazzmen are holed up in Carrickfergus and I’m determined to shine a spotlight on these brave souls.
+I intend to keep the designs fairly simple in shape as this means they would be cheaper and easier to produce, I think I can have some articulation by designing certain parts sepertely and printing them individually. I've look at some models on Behance that where created using 3D printing, I espeicially like this one by [Alejandro Giraldo.](https://www.behance.net/gallery/26953933/The-Captain-3D-printed-Toy)
 
-This information-driven iOS app will utilise a number of data visualisation techniques to tell the story of Miles’ little-known Carrickfergus excursion.
-
-I particularly like Nicholas Felton’s work and I hope to learn from him by [studying his methods][B01]. I believe I can use a similar data visualisation technique to amplify this little-known story.
-
-I anticipate that this will be a native app, designed for Apple’s new iPhone X. (I just love that notch!) This project will give me an opportunity to learn about designing native apps for iOS with a specific focus on audio (something I’m new to).
-
+This project will give me an opportunity to learn about designing a 3D model with printing in mind, I will also get to imrpove my knowledge in programs such as Illustrator and possibly Blender/Maya.
 
 ### Pros
 
-+ I’ve never built an iOS app using Swift, this would be a great opportunity to learn. (I might be mistaken, but I’ve heard Swift is the future…?)
++ I get to use a mixture of software which means that I get to improve my knowledge in each of these programs.
 
 + The old Carrickfergus jazzmen (and woman!) deserve their moment in the spotlight and this would be it.
 
-+ Carrickfergus has a sizable jazz-loving population, this app would satisfy their needs.
++ I know someone who makes 3d figurines which would save me a lot of time if they where happy to get involved.
 
 
 ### Cons
 
-+ I’ve never used Swift, it might be difficult.
++ I Don't know how much it would cost, this requires further research.
 
-+ I might need to learn some audio editing and I have no experience of this (but I’ll give it a go!).
++ I may not have enough experience to create the 3D Models, this part may need outsourced?
 
-+ This might be a somewhat niche product. Jazzmen + Carrickfergus = Small Audience…?
++ This might be a somewhat niche product, are kids interested in these subjects at such a young age?
 
 
 ### How might it be built?
 
-I think this project would be best served by a native mobile application, but I may be wrong.
+I would initially create some sketches for each character and would bring these in Illustrator to create detailed 2D Illustrations, I would then either outsouce or create the 3D models myself using Blender. 
 
-I’m new to this – I’ve never built an app before – so I’m going to focus on iOS. (If my app were successful, however, I’d happily build an Android version.) Apple offer some great tutorials on getting started with Swift – I think they’re called [Playgrounds][B02] on the iPad – and I’m looking forward to learning something new.
-
+The difficult part would be getting them printed physically, I do know someone who makes figurines so that could be a possible solution and also after doing some research there seems to be quite a few locations in Belfast to get models printed.
 
 ### Who’s it for?
 
-The target market for this project is quite niche: jazzmen (the 99%), and one – improvisatory – woman (the one per cent) and, as such, their needs can be quite clearly defined through user research.
+1. Children: As this is an educationl toy the main demographic is children, my hope would be that this would be a fun but also an educational tool.
 
-My Dad has an extensive free-jazz cassette collection, I think the world is now ready to hear it! I’m looking forward to sharing it with Carrickfergus’s jazzmen and jazzwoman and, I hope, opening up the ears of an audience that is further afield.
-
+2. Young Teenagers: I don't think it's necessarily restricted to children, even young teenagers going through school could find these educational.
 
 ### What’s the business model?
 
-There isn’t really a business model for this project. I see this as a much-needed contribution to society.
-
-The world needs to learn about the history of jazz in Carrickfergus and this project is my way of satisfying that pressing educational need. There may be an opportunity to monetise this iOS app, but that isn’t my goal. Of course I’ll research business models, but I feel strongly that this project should be – as Chris Anderson explores – [free][B03]. 
-
-
-[B01]: http://feltron.com "Nicholas Felton is a designer, entrepreneur and artist whose work focuses on translating quotidian data into meaningful objects and experiences."
-[B02]: https://www.apple.com/uk/swift/playgrounds/ "Swift Playgrounds"
-[B03]: https://www.drdouggreen.com/wp-content/Free.pdf "Free"
-
+I would have to do some user research and find out if there is enough interest but if there was this would be a good opportunity to launch a Kickstarter project for possibly funding.
 
 ----
-
 
 A Beginner’s Guide to Pinhole Photography
 ----------------------------------------
