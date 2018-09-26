@@ -1,84 +1,67 @@
 ----
 
 
-01. A Dog is for Christmas
-02. A History of Jazz in Carrickfergus
-03. A Beginner’s Guide to Pinhole Photography
+01. Isometric VR Map of Northern Ireland App
+02. Action Figure Set aimed at Children
+03. Cards ????
 
 
 ----
 
 
-A Dog is for Christmas
+Isometric VR Map of Northern Ireland App
 ----------------------
 
 ### Overview
 
-My children have always wanted a dog – I don’t – but, as the old saying goes: [“A dog is for life, not just for Christmas.”][A01]
+I've always thought that there could be a better way to design an experience that would utilise VR to allow users to immerse themselves in a countries landmarks using VR.
 
-Not any more.
+This innovative application will allow users to get an in-depth 360° look at Northern Ireland's popular landmarks such as the Giants Causeway or the Titanic Quarter with interactive isometric designs of these famous landmarks, not only will you be able to see the landmarks in detail but the app would all provide information on the landmark's such as it's history, location and links to any respective websites and information on fees such as tickets and entry fees.
 
-This innovative service will marry stray dogs with short-term owners. Get a dog delivered just in time for Christmas and delight in the warm glow of your beaming children’s faces on Christmas Day, safe in the knowledge that by January 6 – when the new school term starts (and the excitement has worn off) – the dog in question will be quietly removed.
+This would hopefully have compatiblity with the latest vr headsets for phones such as the Google Cardboard but the focus would be on making it work with the majority of mobile devices.
 
-Essentially a short-term dog rental service, this web site will be built using web standards (HTML, CSS and JavaScript) underpinned by a database that populates the site with content.
+As this is a big challenge for me I think I would be focusing on mobile only.
 
-A web site on its own isn’t much of a challenge so I plan to explore a variety of touchpoints to market the site.
+I would like to have atleast one physical 3D Model of one of the landmarks along with pinted items such as stickers, shirts, badges with the project logo, social media would also me a huge part of it, I think it would be good to try and get in contact with Tourist NI or similar organisations for advice.
 
-These touchpoints will possibly include a variety of printed items (badges, stickers and other items…), but also – importantly – will include a considered social media strategy that embraces Twitter and Instagram to share the story of the site.
-
-It might sound heartless, but I believe ‘A Dog is for Christmas’ addresses a gap in the market. After all, for some (not me!) a dog is just for Christmas.
+I truly think that this is a really good idea but also very difficult however the challenge of building it would teach me many new skills.
 
 
 ### Pros
 
-+ I love dogs and I volunteer at my local pet rescue charity so finding users to interview will be easy.
++ This provides a new challenge for me as the only app I have developed in the past was the weatherapp.
 
-+ My knowledge of HTML, CSS and JavaScript is sound, so I am confident I can build this.
++ The possibility to learn new software such as Unity and improve my javascript and 3D Modelling skills.
 
-+ Dogs! Who doesn’t like dogs?
-
++ If I choose to create the models in Illustrator I have a lot of experience with this software so it should make the process smoother, ive also used both Blender and Maya in the past.
 
 ### Cons
 
-+ A web site alone – HTML, CSS and JavaScript – isn’t much of a challenge. I think I need to consider the bigger picture and challenge myself a little more.
+- I have little to no experience working with VR so it is a big challenge but I think with the innovations we are seeing in VR it would be worth it. 
 
-+ I’ll need to learn how to build a database to power everything. (Although I have tinkered with this before and I’m up for the challenge of learning something new!)
+- I’ve never used Unity so I have toe learn an entirely new program, fortunately there are a lot of tutorials out there.
 
-+ I have no experience with web-based marketing so this will involve learning a great deal about permission marketing.
-
+- As it is partly an educational app ill need to thoroughly check that my information is correct.
 
 ### How might it be built?
 
-I think this project would be best served by a web site. I plan on building it using web standards: HTML, CSS and JavaScript. The site will need to be underpinned by a database. Although I have no experience of databases, I’m willing to learn as I believe it will add a string to my bow and help me find work once I graduate.
-
-I want to challenge myself, so I intend to learn about new CSS layout techniques, including [CSS Grid Layout][A02], which I think are important to learn as the web evolves. (Rachel Andrews’s recent ‘CSS Grid Secrets’ article in @netmag #298 provides a helpful starting point.) I think animations are also good to focus on so I intend to learn from some of Val Head’s [tutorials][A03].
-
+The project will definitely be a mobile application. I think I would build it using using Unity with some HTML, CSS and JavaScript mixed in with the models beign created in Illustrator. These could then be imported into Unity which would be the biggest challenge as ive never used it before but I really want to challenge myself, so I intend to follow the various tutorials that are online. Even if I wasn't unable to create the application I would create a video in After Effects showcasing how it would work.
 
 ### Who’s it for?
 
-The target market for this project is twofold:
+The target market for this project is:
 
-1. Parents (who are being harassed by their children: “We want a dog!”); and
-2. Children (who just want a dog and don’t really care about the responsibilities owning a dog involves).
+1. Adults: The main target demographic would be adults as they would generally be the largest percentage who could afford to travel around Northern Ireland.
 
-When considering the design of the web site I need to balance these two – very different – audiences. The site needs to be playful, yet serious at the same time.
+2. Teen: Possibilty that the app could be used in schools as research material but VR is still a cool new technology so I think just out of general interest and the use of interactive 3D Models makes it more appealing than say Google Maps to the younger generation.
 
-I think an illustrated approach to the content would be good – similar to Vic Bell’s work – so I’m going to learn about vector illustration as a core part of the project.
+3. Elderly: I think a small percentage of the elderly would use the app, there has been a growth in social media/internet usage by people aged 65+ years of age. 
 
+This information is based on my own thoughts I feel like I would need to conduct some sort of user research.
 
 ### What’s the business model?
 
-I imagine parents will pay for this service, although I’m unsure how much I would need to charge. I think this will prove a useful focus for my user research.
-
-I believe there will be a flat fee, upfront charge to use the service, and that will be supplemented by – perhaps – a daily charge (for every extra day the dog is kept?).
-
-Again, I’d need to test my assumptions with some user-centred research, but I believe there is a business model here.
-
-
-[A01]: https://www.dogstrust.org.uk/news-events/news/dogs-trust-a-dog-is-for-life-not-just-for-christmas "A dog is for life, not just for Christmas."
-[A02]: https://css-tricks.com/snippets/css/complete-guide-grid/ "A Complete Guide to Grid"
-[A03]: http://valhead.com "Val is a designer and web animation consultant with a talent for getting designers and developers alike excited about the power of animation."
-
+I think the service would be free as it's educational and especially for tourists I think it would be more advantages for it to be accessible so that newcomers are put off. 
 
 ----
 
