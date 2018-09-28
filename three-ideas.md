@@ -2,7 +2,7 @@
 
 
 01. Isometric VR Map of Northern Ireland App
-02. Interaction Design Educational 3D Printed Figures
+02. 3D Printed Figures
 03. Project Plan and Marketing Website
 
 
@@ -64,7 +64,6 @@ I think the service would be free as it's educational and especially for tourist
 
 ----
 
-
 3D Printed Figures
 ----------------------------------
 
@@ -72,7 +71,7 @@ I think the service would be free as it's educational and especially for tourist
 
 I've always wanted to work with 3D printing and my final year project seems like a great opportunity.
 
-I think an interesting approach would be creating a 3D figurine for each subject that relates to Interaction Design for example web design, graphic design, photography, animation etc.. these figures would also have there own custom box designs similar to [funko pop figurines.](https://popvinylfaq.com/wp-content/uploads/2017/06/Custom-pop-box.jpg) The figures are intended to introduce children and young teenagers into the world of interaction design, essentially trying to engage there interest in these subjects at a young age.
+I think an interesting approach would be creating a line of small 3d figurines.. these figures would also have there own custom box designs similar to [funko pop figurines.](https://popvinylfaq.com/wp-content/uploads/2017/06/Custom-pop-box.jpg)
 
 I think it would also be beneficial to have a companion app or website though this would entirely depend on how long it would take to get the models designed and printed, this requires further research.
 
@@ -94,7 +93,7 @@ This project will give me an opportunity to learn about designing a 3D model for
 
 - I may not have enough experience to create the 3D Models, this part may need outsourced?
 
-- This might be a somewhat niche product, are kids interested in these subjects at such a young age?
+- This might be a somewhat niche product.
 
 ### How might it be built?
 
