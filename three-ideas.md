@@ -3,7 +3,7 @@
 
 01. Isometric VR Map of Northern Ireland App
 02. Interaction Design Educational 3D Printed Figures
-03. Cards ????
+03. Project Plan and Marketing Website
 
 
 ----
@@ -22,7 +22,7 @@ This would hopefully have compatiblity with the latest vr headsets for phones su
 
 As this is a big challenge for me I think I would be focusing on mobile only.
 
-I would like to have atleast one physical 3D Model of one of the landmarks along with pinted items such as stickers, shirts, badges with the project logo, social media would also me a huge part of it, I think it would be good to try and get in contact with Tourist NI or similar organisations for advice.
+I would like to have atleast one physical 3D Model of one of the landmarks along with printed items such as stickers, shirts, badges with the project logo, social media would also me a huge part of it, I think it would be good to try and get in contact with Tourist NI or similar organisations for advice.
 
 I think that this is a really good idea but also very difficult but the challenge of building it would teach me many new skills and techniques that I think its worth it.
 
@@ -65,7 +65,7 @@ I think the service would be free as it's educational and especially for tourist
 ----
 
 
-Interaction Design Educational 3D Printed Figures
+3D Printed Figures
 ----------------------------------
 
 ### Overview
@@ -84,10 +84,9 @@ This project will give me an opportunity to learn about designing a 3D model for
 
 + I get to use a mixture of software which means that I get to improve my knowledge in each of these programs.
 
-+ The old Carrickfergus jazzmen (and woman!) deserve their moment in the spotlight and this would be it.
++ Possiblity of having a companion app or website.
 
 + I know someone who makes 3d figurines which would save me a lot of time if they where happy to get involved.
-
 
 ### Cons
 
@@ -96,7 +95,6 @@ This project will give me an opportunity to learn about designing a 3D model for
 - I may not have enough experience to create the 3D Models, this part may need outsourced?
 
 - This might be a somewhat niche product, are kids interested in these subjects at such a young age?
-
 
 ### How might it be built?
 
@@ -116,65 +114,51 @@ I would have to do some user research and find out if there is enough interest b
 
 ----
 
-Animation?
+Project Plan and Marketing Website
 ----------------------------------------
 
-We live in an age that is obsessively focused on the over-engineered fictions of Instagram, shared without thought it seems on the latest social network that has fleetingly caught the imagination.
+When planning a project it always seem like you have to use a multitiude of apps and websites to fully plan and market your idea.
 
-Moments ‘captured’ that, in reality, are moments ‘crafted’.
+This innovative idea will allow users to not only plan there project from start to finish but it will allow them to add detailed information, dates, budgets, timeframe, images and importantly it will allows users to market there project through social media.
 
-It seems like a forgotten past, but once there was a time when each and every photograph, each and every slice of time was weighed up before film was exposed to light. Film, expensive, was savoured and cherished; used with care. Sadly, it seems that time has passed.
+This web site will be built using web standards (HTML, CSS and JavaScript) and would include features such as the ability to login / signup and I would hopefully also add the ability to allow multiple users to contribute to a project, I would need to research this further however as I haven't created a system like this before.
 
-This ebook – delivered as a PDF, ePub and .mobi – is intended to introduce digital photographers (and other novices to film) to the wonderful world of [pinhole photography][C01], equipping them with the knowledge they need to get started exposing film to light.
+Including some data visualisation charts and diagrams would be extremely useful, i'm thinking of including some kind of dashboard for each user where they can view these statistics.
 
-A lavishly illustrated ebook, *A Beginner’s Guide to Pinhole Photography*, is intended as a primer, covering everything you need to know to get started with pinhole photography.
-
-In addition to the book itself, I propose to create a supporting web site that will act as a showcase for the book, but which will also feature links to all the materials you need to get started as a pinhole photographer.
-
-When sensors are, year-on-year, accelerating, *A Beginner’s Guide to Pinhole Photography* affords an opportunity to step outside of the digital realm and experience photography – once again – as a resolutely analogue medium.
-
+In addition to the website itself, I would like to have some physical items such as stickers, shirts, badges with the project logo.
 
 ### Pros
 
-+ I’m an avid pinhole photographer and this project gives me a chance to promote my hobby.
++ I will be able to further practice and improve my knowledge of HTML, CSS and JavaScript.
 
-+ The project – which will be delivered in PDF, ePub and .mobi formats - gives me a fantastic opportunity to learn a wealth of new skills.
++ This is a website that I would use myself and think especially students would find it to be a very useful tool.
 
-+ This project could potentially earn me some much-needed money. (I could perhaps launch it as a [Kickstarter][C02] or use Ulster University’s new crowdfunding platform?)
-
++ This would be a good opportunity to do some on-location photography of some of Northern Ireland's landmarks.
 
 ### Cons
 
-+ I have no experience writing tutorials so I’ll need to learn about structuring educational information.
+- I really need to consider what features to include on both the project and marketing sides so that I don't exclude any critical features.
 
-+ I’ve never created an ebook before, but I am determined to learn.
+- My Javascript knowledge needs work, this would be a good learning opportunity.
 
-+ To do the project justice I’ll need to buy some ISBN numbers (which is another aspect I’ll need to learn).
-
+- I've never created a website of this complexity before but I will learn.
 
 ### How might it be built?
 
-My intention is to create PDF, ePub and .mobi formats of *A Beginner’s Guide to Pinhole Photography*. This is going to be a substantial task and will involve a great deal of new skills acquisition.
+This web site will be built using web standards ( HTML, CSS and JavaScript)
 
-I have some experience of creating PDFs, but I’ve never created an ePub or .mobi book before. This will be a challenge. I intend, however, to use Mark and Emma Boulton’s [Creating eBooks][C03], which I’ve been told is a great overview.
+I have a good understanding of HTML and CSS and would like use CSS Grid Layout as I was a big fan of it when I utilized it creating my portfolio website however my Javascript skills are not up to par so I feel like this is a good opportunity for me to improve in that area.
 
+I think this is a good opporunity to challenge myself, so I intend to learn pursue new web design techniques but I would also like to include my love of graphic design and create some illustrations for the website which I could hopefully animate to give the website some interactive visuals.
 
 ### Who’s it for?
 
-*A Beginner’s Guide to Pinhole Photography* is intended for anyone that is interested in photography.
+1. Adults: This website would be excellent for any adults who are working on a big project whether it's for themselves or for there business, the ability to both plan a project and market it on one website is a big timesaver.
 
-The audience is potentially quite large, which is why I believe there might be an opportunity to launch the project as a Kickstarter.
-
-Once I’ve undertaken some market research, I’ll have a clear idea of the demand for the product. At that point I will decide if a Kickstarter, or other crowdfunding campaign, is worth exploring as a part of my Major Project.
-
+2. Students: Thinking of myself and students who are working on big projects for university or college, a project and marketing website like this would have been extremely useful for final year but from my research I didn't find anything which had what I wanted without having to use multiiple apps and website solutions.
 
 ### What’s the business model?
 
-This project would lend itself well to a crowdfunding campaign, which would teach me something new. I intend to undertake some market research to see if there is demand for the ebook.
+The website I think initially would be free to use and sign up but with the possibility of a membership subcription service that allows users to use more advanced features.
 
-If there is enough interest I plan on launching a Kickstarter as a part of the project. This would round the project out nicely and ensure it’s a considerable challenge.
-
-
-[C01]: https://www.lomography.com/magazine/219519-pinholes-and-sprockets-making-a-film-box-pinhole-camera "Making a Film Box Pinhole Camera"
-[C02]: https://www.kickstarter.com/projects/bozzou/pinhole-pro-professional-pinhole-lens-for-dslr-and "Pinhole Pro"
-[C03]: http://creating-ebooks.com "Creating eBooks"
+I think looking at websites with a similar business models might be a good research plan.
