@@ -103,13 +103,11 @@ The difficult part would be getting them printed physically, I do know someone w
 
 ### Who’s it for?
 
-1. Children: As this is an educationl toy the main demographic is children, my hope would be that this would be a fun but also an educational tool.
-
-2. Young Teenagers: I don't think it's necessarily restricted to children, even young teenagers going through school could find these educational.
+1. Children: I would aim to create something that has a fun and appealing design aesthetic aiming the product mainly at children but I think I would have to conduct more user research to find who the wider audience might be.
 
 ### What’s the business model?
 
-I would have to do some user research and find out if there is enough interest but if there was this would be a good opportunity to launch a Kickstarter project for possible funding.
+I would have to do some user research and find out if there is enough interest but if there was this would be a good opportunity to launch a Kickstarter project for possible funding and I could also possibly have a limited run of these figures.
 
 ----
 
