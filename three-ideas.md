@@ -14,7 +14,7 @@ Isometric VR Map of Northern Ireland App
 
 ### Overview
 
-I've always thought that there could be a better way to design an experience that would utilise VR to allow users to immerse themselves in the landmarks and culture of a location.
+I've always thought that there could be a better way to design an experience that would utilise VR to allow users to immerse themselves in the landmarks and culture of a country or location.
 
 This innovative application will allow users to get an in-depth 360° look at Northern Ireland's popular landmarks such as the Giants Causeway or the Titanic Quarter with interactive isometric designs of these famous landmarks, not only will you be able to see the landmarks in detail but the app would also provide information on the landmark's such as it's history, location and links to any respective websites and information on fees such as tickets and entry fees.
 
