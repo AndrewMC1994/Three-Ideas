@@ -38,7 +38,7 @@ I think that this is a really good idea and also very challenging so it's a grea
 
 - I have little to no experience working with VR so it is a big challenge but I think with the innovations we are seeing in VR it would be worth it. 
 
-- I’ve never used Unity so I have toe learn an entirely new program, fortunately there are a lot of tutorials out there.
+- I’ve never used Unity so I have to learn an entirely new program, fortunately there are a lot of tutorials out there.
 
 - As it is partly an educational app ill need to thoroughly check that my information is correct.
 
