@@ -120,7 +120,7 @@ This innovative idea will allow users to not only plan there project from start 
 
 This web site will be built using web standards (HTML, CSS and JavaScript) and would include features such as the ability to login / signup and would allow multiple users to contribute to a project, this requires extensive research into how these systems would work as I haven't created something like this before.
 
-I plan to include some data visualisation charts and diagrams which would be an extremely useful feature and creating some kind of dashboard for each user where they can view these statistics would be a great feature to have aswell. Including some micro-interactions and css animations would also be an imporant element to include to help the overall appeal of the website.
+I plan to include some data visualisation charts and diagrams which would be an extremely useful feature and creating some kind of [dashboard](https://www.loggly.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-28-at-4.13.35-PM.png) for each user where they can view these statistics would be a great feature to have aswell. Including some micro-interactions and css animations would also be an imporant element to include to help the overall appeal of the website.
 
 In addition to the website itself, I would like to have some items created as marketing for the website such as stickers, shirts and badges with the project logo.
 
@@ -130,7 +130,7 @@ In addition to the website itself, I would like to have some items created as ma
 
 + This is a website that I would use myself and think especially students would find it to be a very useful tool.
 
-+ Learning to build and create so many different features will be extremely useful for any future projects.
++ Learning to build and implement so many different features will be extremely useful for any future projects.
 
 ### Cons
 
@@ -144,11 +144,11 @@ In addition to the website itself, I would like to have some items created as ma
 
 This web site will be built using web standards ( HTML, CSS and JavaScript).
 
-I have a good understanding of HTML and CSS and would like use CSS Grid Layout as I was a big fan of it when I utilized it creating my portfolio website however my Javascript skills are not up to par so I feel like this is a good opportunity for me to improve in that area.
+I have a good understanding of HTML and CSS and would like use [CSS Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid/) as I was a big fan of it when I utilized it creating my portfolio website however my Javascript skills are not up to par so I feel like this is a good opportunity for me to improve in that area.
 
 Certain features such as the sign/up login and data visualisation charts require further research as I don't have past experience creating them but it will be a great learning opportunity.
 
-I think this is a good opporunity to challenge myself, so I intend to learn pursue new web design techniques but I would also like to include my love of graphic design and create some illustrations for the website which I could hopefully animate to give the website some interactive visuals.
+I think this is a good opportunity to challenge myself, so I intend to learn pursue new web design techniques but I would also like to include my love of graphic design and create some illustrations for the website which I could hopefully animate to give the website some interactive visuals.
 
 ### Who’s it for?
 
