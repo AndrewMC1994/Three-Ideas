@@ -9,7 +9,7 @@
 ----
 
 
-#### Isometric VR Map of Northern Ireland App
+## Isometric VR Map of Northern Ireland App
 ----------------------
 
 ### Overview
@@ -62,7 +62,7 @@ I think the service would be free as it's educational and especially for tourist
 
 ----
 
-#### 3D Printed Figures
+## 3D Printed Figures
 ----------------------------------
 
 ### Overview
@@ -111,7 +111,7 @@ I would have to do some user research and find out if there is enough interest b
 
 ----
 
-#### Project Plan and Marketing Website
+## Project Plan and Marketing Website
 ----------------------------------------
 
 When planning a project it always seem like you have to use a multitiude of apps and websites to fully plan and market your idea.
