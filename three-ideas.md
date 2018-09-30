@@ -30,7 +30,7 @@ I think that this is a really good idea and also very challenging so it's a grea
 
 + This provides a new challenge for me as the only app I have developed in the past was the weatherapp.
 
-+ The possibility to learn new software such as Unity and improve my javascript and 3D Modelling skills.
++ The possibility to learn new software such as [Unity](https://unity3d.com/) and improve my javascript and 3D Modelling skills.
 
 + If I choose to create the models in Illustrator I have a lot of experience with this software so it should make the process smoother, ive also used both Blender and Maya in the past.
 
